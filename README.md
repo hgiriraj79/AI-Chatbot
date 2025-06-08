@@ -26,7 +26,7 @@ cd your-repo
 
 ```bash
 python -m venv your_environment_name
-source your_environment_name/bin/activate      # Linux/macOS
+source your_environment_name/bin/activate     # Linux/macOS
 .your_environment_name\Scripts\activate       # Windows
 ```
 
@@ -51,6 +51,7 @@ python main.py
 ---
 
 ## Project Structure
+<pre> ``` text
 project/
 ├── app/
 │   ├── __init__.py
@@ -60,6 +61,8 @@ project/
 ├── .env                  # OpenAI or other platform API key (not committed to Git)
 ├── requirements.txt      # dependencies
 └── README.md
+```
+</pre>
 
 ---
 
