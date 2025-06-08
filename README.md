@@ -70,10 +70,12 @@ project/
 GPT-4.1 Nano CLI Chatbot for Math operations
 Type 'exit' to quit.
 You: what is 20 / 4
+using function divide to get output
 Bot: Answer: 5.0
 
 You: multiply 6 and 7
 Bot: Answer: 42
+using function multiply to get output
 
 You: exit
 Ending session with chatbot!
