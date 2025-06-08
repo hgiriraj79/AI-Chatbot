@@ -1,7 +1,7 @@
 from app.llm import call_llm
 
 def chatbot():
-    print("GPT-4o CLI Chatbot for Math operations")
+    print("GPT-4.1 Nano CLI Chatbot for Math operations")
     print("Type 'exit' to quit.")
     while True:
         query = input("You: ")

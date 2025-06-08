@@ -67,7 +67,7 @@ project/
 
 ## Expected Output 
 <pre>
-GPT-4o CLI Chatbot for Math operations
+GPT-4.1 Nano CLI Chatbot for Math operations
 Type 'exit' to quit.
 You: what is 20 / 4
 Bot: Answer: 5.0
