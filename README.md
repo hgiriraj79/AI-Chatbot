@@ -87,5 +87,5 @@ Ending session with chatbot!
 ---
 
 ## Notes
-Make sure you have an active OpenAI API or other platform subscription and enough quota.
-The chatbot currently supports simple math operations and can be extended with more tools.
+1. Make sure you have an active OpenAI API or other platform subscription and enough quota.
+2. The chatbot currently supports simple math operations and can be extended with more tools.
