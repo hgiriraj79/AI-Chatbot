@@ -10,7 +10,7 @@ def chatbot():
             break
         try:
             response = call_llm(query)
-            print(f"Bot: {response}")
+            print(f"Bot: {response} \n")
         except Exception as e:
             print(f"Error: {e}")
 
