@@ -51,7 +51,7 @@ python main.py
 ---
 
 ## Project Structure
-<pre> ``` text
+<pre>
 project/
 ├── app/
 │   ├── __init__.py
@@ -61,7 +61,6 @@ project/
 ├── .env                  # OpenAI or other platform API key (not committed to Git)
 ├── requirements.txt      # dependencies
 └── README.md
-```
 </pre>
 
 ---
